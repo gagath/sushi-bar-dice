@@ -17,4 +17,5 @@ tell apart the two different faces that have different means in-game.
 
 ## License
 
-CC-BY-SA.
+Copyright 2025 Agathe Porte.
+[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

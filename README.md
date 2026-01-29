@@ -10,6 +10,11 @@ Compared to the original dice, one of the two sticks faces was modified to
 easily distinguish them. This should be useful for colorblind users to
 tell apart the two different faces that have different means in-game.
 
+![Arretes face](./arretes.svg)
+![Sushi face](./sushi.svg)
+![Original sticks face](./baguettes-1.svg)
+![Modified sticks face](./baguettes-2.svg)
+
 ## Software used
 
 - Inkscape for vector graphics
